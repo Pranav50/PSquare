@@ -21,7 +21,8 @@ export default class Contact extends Component {
                   <MDBListGroupItem 
                   className="d-flex justify-content-between align-items-center"
                   style={{background:'#ffffff', opacity:'0.95'}}>
-                  <img src={phone} /><h4 style={{color:'#34495e',fontFamily:'Muli, sans-serif'}}>7738785882</h4>
+                  <img src={phone} />
+                  <h4 style={{color:'#34495e',fontFamily:'Muli, sans-serif'}}>7738785882</h4>
                   </MDBListGroupItem>
                   <MDBListGroupItem className="d-flex justify-content-between align-items-center"
                   style={{background:'#ffffff', opacity:'0.95'}}>

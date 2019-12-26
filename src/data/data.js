@@ -263,7 +263,7 @@ export const data2 = [
         "content":"Slack like experience",
         "dev":'React, Firebase, Semantic UI',
         "github":"https://github.com/Pranav50/SlackClone",
-        "demo":"https://react-slack-62c47.firebaseapp.com/login",
+        "demo":"https://react-slack-62c47.firebaseapp.com",
         "desc":"Slack Clone built in React",
         "extras": [
             "Complete Slack like features",

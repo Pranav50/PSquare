@@ -298,6 +298,20 @@ b {
 
 .jumbotron-banner { 
   background: linear-gradient(to right, #0a3d62, #60a3bc, #82ccdd);
+} 
+
+@media only screen and (max-width: 420px) {
+  .d-flex h4 {
+    font-size: 100%;
+  }
+
+  .extras {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
+    grid-column-gap: 8rem;
+    grid-row-gap: 1rem;
+  }
+
 }
 
 @media only screen and (max-width: 768px) {

@@ -15,11 +15,11 @@ export default class Projects extends Component {
       <MDBRow >      
       {  
         data2.map((data, index) => {
-          return <MDBCol key={index}>
-          <MDBCard style={{ width: "30rem", borderRadius:'10px', boxShadow: '0 10px 6px -6px #1e272e'}}>
+          return <MDBCol key={index} md="12" lg="6" >
+          <MDBCard style={{ width: '100%'}}>
           <Link to={{ pathname: `/details/${data.id}`, data:data }}>
-          <MDBCardImage className="img-fluid" src={data.img}
-          waves style={{height:'auto', width:'auto'}}
+          <img className="img-fluid" src={data.img}
+          style={{height:'auto', width:'auto'}}
           />
           </Link>
           <MDBCardBody>
@@ -39,6 +39,8 @@ export default class Projects extends Component {
       </MDBCard>
       <br/>
       </MDBCol>
+      
+
          
         })
       }

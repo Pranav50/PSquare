@@ -47,7 +47,7 @@ export default class Details extends Component {
                 <MDBRow>
                 <MDBCol>
 
-                <MDBJumbotron style={{ padding: 0, marginTop:'-6em'}}>
+                <MDBJumbotron style={{ padding: 0, marginTop:'-4.8em'}}>
             <MDBCol className="text-white py-5 px-4 my-5" 
             style={{ background: 'linear-gradient(to right, #0abde3, #c7ecee, #dff9fb)'}}>
             <MDBContainer >
@@ -61,7 +61,9 @@ export default class Details extends Component {
                 <ul className="extras"> 
                 {extras.map((item, index) => {
                     return <li key={index}>
-                    <img src={starImage} height="10%" width="10%" /> {item}</li>
+                    <img src={starImage} height="10%" width="10%" /> 
+                    {item}
+                    </li>
                 })}
                 </ul>
                 </section>
@@ -74,7 +76,9 @@ export default class Details extends Component {
                   <ul className="extras"> 
                   {tech.map((item, index) => {
                       return <li key={index}>
-                      <img src={starImage} height="10%" width="10%" /> {item}</li>
+                      <img src={starImage} height="10%" width="10%" /> 
+                      {item}
+                      </li>
                   })}
                   </ul>
                   </section>
