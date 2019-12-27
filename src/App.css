@@ -308,7 +308,7 @@ b {
   .extras {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
-    grid-column-gap: 8rem;
+    grid-column-gap: 6rem;
     grid-row-gap: 1rem;
   }
 

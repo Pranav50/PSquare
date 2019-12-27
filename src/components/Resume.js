@@ -25,10 +25,6 @@ export default class Resume extends Component {
                   <MDBContainer>
                   <MDBRow style={{margin:'0 2px 0 2px'}}>
                       <MDBCol md="5" style={{color:'black', border:'1px solid black'}}>
-                        <div style={{textAlign:'center'}}>
-
-                        </div>
-                        <h2 style={{paddingTop:'2em', fontFamily:'Montserrat', color:'#2c3e50'}}>Pranav Pawar</h2>
                         <h4 style={{fontFamily:'Oxygen', color:'#8395a7'}}>Objective</h4>
                         <hr style={{borderTop:'3px solid #833fb2', width:'50%'}} />
                         <Objective/>

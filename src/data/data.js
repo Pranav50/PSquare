@@ -146,25 +146,6 @@ export const data2 = [
     },
     {
         "id":7,
-        "img":toDoListFirebase,
-        "title":"To Do List Firebase",
-        "content":"Its To Do List Firebase",
-        "dev":'React, Firebase',
-        "github":"https://github.com/Pranav50/ToDoListFirebase",
-        "demo":"https://react-notes-bf07b.firebaseapp.com/",
-        "desc":"ToDo List with Firebase",
-        "extras": [
-            "ToDo List app with Add and Remove features",
-            "Beautiful UI with transition effects",
-          ],
-          "tech": [
-            "Firebase",
-            "JSX",
-            "React Class Component"
-          ],
-    },
-    {
-        "id":8,
         "img":mShop,
         "title":"MShop",
         "content":"Its MShop",
@@ -191,10 +172,10 @@ export const data2 = [
           ],
     },
     {
-        "id":9,
+        "id":8,
         "img":weather,
-        "title":"Weather",
-        "content":"Its Weather",
+        "title":"Weather App",
+        "content":"Find Weather of all cities",
         "dev":'React, Material UI, MBD React, API',
         "github":"https://github.com/Pranav5000/WeatherApp",
         "demo":"https://polished-leaf-255922.firebaseapp.com/",
@@ -229,18 +210,17 @@ export const data2 = [
         ],
     },
     {
-        "id":10,
+        "id":9,
         "img":toDoMern,
         "title":"ToDo List MERN ",
-        "content":"Its ToDo List MERN ",
+        "content":"ToDo List in MERN Stack",
         "dev":'React, MongoDB, Express, Node',
         "github":"https://github.com/Pranav50/ToDoListMERN",
         "demo":"https://shielded-scrubland-44470.herokuapp.com/",
-        "desc":"ToDo List with MERN Stack",
+        "desc":"A simple MERN To Do List",
         "extras": [
-            "Simple ToDo List App",
-            "Transition effect on list deletion",
             "Add items in modal",
+            "Transition effect on list deletion",
             "Data stored in MongoDB"
           ],
           "tech": [
@@ -257,7 +237,7 @@ export const data2 = [
           ],
     },
     {
-        "id":11,
+        "id":10,
         "img":slackClone,
         "title":"Slack Clone",
         "content":"Slack like experience",
@@ -289,40 +269,5 @@ export const data2 = [
             "React Avatar Editor",
             "Emoji Mart",
           ],
-    },
-    {
-        "id":12,
-        "img":eComAngular,
-        "title":"Watch Store",
-        "content":"Online Watch Store",
-        "dev":'Angular 6, Firebase, Paypal',
-        "github":"https://github.com/Pranav50/E-Commerce",
-        "demo":"https://angularshop-4e6b0.firebaseapp.com/",
-        "desc":"Watch Store built in Angular 6",
-        "extras": [
-            "Simple Online Watch Store",
-            "Transition effects on Page Navigation",
-            "Built with latest design standards",
-            "Data stored in Firebase",
-            "Beautiful and intuitive UI"
-          ],
-          "tech": [
-            "Firebase",
-            "Angular Material",
-            "Angular Animations",
-            "Bootstrap",
-            "Font Awesome",
-            "NG Bootstrap",
-            "Angular Bootstrap MD",
-            "Chart.js",
-            "Hammer.js",
-            "HTML2 Canvas",
-            "NGX Pagination",
-            "NGX Toastr",
-            "WebAnimation.js"
-
-          ],
     }
-
-
 ]

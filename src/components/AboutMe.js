@@ -1,6 +1,7 @@
  import React, { Component } from 'react'
 import bulletImage from '../img/disc3.png'
 import { MDBJumbotron, MDBContainer, MDBRow, MDBCol, MDBCardTitle, MDBIcon } from "mdbreact";
+import NowWhat from './NowWhat';
 
 export default class AboutMe extends Component { 
     render() {
@@ -42,6 +43,11 @@ export default class AboutMe extends Component {
               <p>Goal-oriented person</p>
             </li>
           </ul>
+          <div style={{marginLeft:'5%'}}> 
+          <h5 style={{fontFamily:'Oxygen', color:'#8395a7'}}>Now What?</h5>
+            <hr style={{borderTop:'3px solid #833fb2', width:'30%'}} />
+            <NowWhat/>
+          </div>
           </MDBJumbotron>
             </MDBCol> 
           </MDBJumbotron>
