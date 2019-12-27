@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16ccfff44ddcaefc2c28b3fbc5e39921",
+    "revision": "494dbdb91c4a163b5f374e4e57ad5d83",
     "url": "/PSquare/index.html"
   },
   {
-    "revision": "734391b7cddc1f61bc32",
+    "revision": "875cddfcb3416c9e4e69",
     "url": "/PSquare/static/css/2.83f7f6c4.chunk.css"
   },
   {
-    "revision": "3bb3aba5c24b96450218",
-    "url": "/PSquare/static/css/main.021c16fe.chunk.css"
+    "revision": "66fc08dceb52c4e50f83",
+    "url": "/PSquare/static/css/main.deb47bea.chunk.css"
   },
   {
-    "revision": "734391b7cddc1f61bc32",
-    "url": "/PSquare/static/js/2.e0fc9fd7.chunk.js"
+    "revision": "875cddfcb3416c9e4e69",
+    "url": "/PSquare/static/js/2.07be8f33.chunk.js"
   },
   {
     "revision": "074562c3afe0c9e91143c7365f6ec3b8",
-    "url": "/PSquare/static/js/2.e0fc9fd7.chunk.js.LICENSE"
+    "url": "/PSquare/static/js/2.07be8f33.chunk.js.LICENSE"
   },
   {
-    "revision": "3bb3aba5c24b96450218",
-    "url": "/PSquare/static/js/main.0973abd6.chunk.js"
+    "revision": "66fc08dceb52c4e50f83",
+    "url": "/PSquare/static/js/main.75e7f918.chunk.js"
   },
   {
     "revision": "1490b1d49e12dc3deb8b",
