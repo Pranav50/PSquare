@@ -7,7 +7,8 @@ export class Objective extends Component {
                 <p className="text-justify" style={{fontFamily:'Muli'}}>
                 To take advantage of Software Development skills and impart my knowledge to the 
                 organization to increase its market value and become a professional Software Developer. 
-                This would rather gain confidence within me using my potential to mutual benefit of both company and me.</p>
+                This would rather gain confidence within me using my potential to mutually benefit both 
+                company and me.</p>
             </section>
         )
     }

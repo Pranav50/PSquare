@@ -6,8 +6,10 @@ export class NowWhat extends Component {
             <section>
                 <p className="text-justify" 
                 style={{fontFamily:'Muli', fontSize:'120%'}}>
-                Now I'am working in Flutter, Dart and React Native Projects. I also have experience in 
-                Inonic Project, hence, this is the time to emphasize more on it.</p>
+                I'am highly desperate to develop mobile projects thus, currently 
+                working in Flutter, Dart and React Native Projects. I also have 
+                experience in Inonic, hence, this is the time to emphasize 
+                more on it</p>
             </section>
         )
     }

@@ -2,6 +2,7 @@
 import bulletImage from '../img/disc3.png'
 import { MDBJumbotron, MDBContainer, MDBRow, MDBCol, MDBCardTitle, MDBIcon } from "mdbreact";
 import NowWhat from './NowWhat';
+import LookingFor from './LookingFor';
 
 export default class AboutMe extends Component { 
     render() {
@@ -44,6 +45,10 @@ export default class AboutMe extends Component {
             </li>
           </ul>
           <div style={{marginLeft:'5%'}}> 
+          <h5 style={{fontFamily:'Oxygen', color:'#8395a7'}}>Looking For</h5>
+            <hr style={{borderTop:'3px solid #833fb2', width:'30%'}} />
+          <LookingFor/>
+
           <h5 style={{fontFamily:'Oxygen', color:'#8395a7'}}>Now What?</h5>
             <hr style={{borderTop:'3px solid #833fb2', width:'30%'}} />
             <NowWhat/>
