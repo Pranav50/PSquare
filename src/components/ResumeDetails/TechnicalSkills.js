@@ -11,7 +11,7 @@ export class TechnicalSkills extends Component {
                         <b>Web Technologies</b>
                       </MDBCol>
                       <MDBCol md="7" className="text-justify" style={{color:'#222f3e', border:'1px solid #222f3e'}}>
-                        HTML5, CSS3, JavaScript, GraphQL, ES6, jQuery
+                        HTML5, CSS3, JavaScript (ES6), GraphQL, jQuery
                       </MDBCol>
                   </MDBRow>
                   <MDBRow style={{margin:'0 2px 0 2px'}}>
@@ -19,8 +19,10 @@ export class TechnicalSkills extends Component {
                         <b>Libraries</b>
                       </MDBCol>
                       <MDBCol md="7" className="text-justify" style={{color:'#222f3e', border:'1px solid #222f3e'}}>
-                        React, Redux - Thunk/Saga, Flux, Node.js, Bootstrap, MDBReact,
-                        React MDL, Material UI 
+                        React, Redux - Thunk/Saga, Redux Form, Redux Selector,
+                        Flux
+                        <hr/>
+                         Bootstrap, MDBReact, React MDL, Material UI 
                       </MDBCol>
                   </MDBRow>
                   <MDBRow style={{margin:'0 2px 0 2px'}}>
@@ -28,7 +30,7 @@ export class TechnicalSkills extends Component {
                         <b>Backend/Middleware Libraries</b>
                       </MDBCol>
                       <MDBCol md="7" className="text-justify" style={{color:'#222f3e', border:'1px solid #222f3e'}}>
-                        MongoDB, Firebase, Express, Mongoose
+                        MongoDB, Node.js, Firebase, Express, Mongoose
                       </MDBCol>
                   </MDBRow>
                   <MDBRow style={{margin:'0 2px 0 2px'}}>

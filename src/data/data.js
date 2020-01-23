@@ -145,26 +145,7 @@ export const data2 = [
           ],
     },
     {
-      "id":7,
-      "img":toDoListFirebase,
-      "title":"To Do List Firebase",
-      "content":"Its To Do List Firebase",
-      "dev":'React, Firebase',
-      "github":"https://github.com/Pranav50/ToDoListFirebase",
-      "demo":"https://react-notes-bf07b.firebaseapp.com/",
-      "desc":"ToDo List with Firebase",
-      "extras": [
-          "ToDo List app with Add and Remove features",
-          "Beautiful UI with transition effects",
-        ],
-        "tech": [
-          "Firebase",
-          "JSX",
-          "React Class Component"
-        ],
-  },
-    {
-        "id":8,
+        "id":7,
         "img":mShop,
         "title":"MShop",
         "content":"Its MShop",
@@ -191,7 +172,7 @@ export const data2 = [
           ],
     },
     {
-        "id":9,
+        "id":8,
         "img":weather,
         "title":"Weather App",
         "content":"Find Weather of all cities",
@@ -229,7 +210,7 @@ export const data2 = [
         ],
     },
     {
-        "id":10,
+        "id":9,
         "img":toDoMern,
         "title":"ToDo List MERN ",
         "content":"ToDo List in MERN Stack",
@@ -256,7 +237,7 @@ export const data2 = [
           ],
     },
     {
-        "id":11,
+        "id":10,
         "img":slackClone,
         "title":"Slack Clone",
         "content":"Slack like experience",
