@@ -10,17 +10,22 @@ import weather from '../img/react-projects/weather.jpg'
 import toDoMern from '../img/react-projects/todo-mern.jpg'
 import mShop from '../img/react-projects/mshop.jpg'
 import eComAngular from '../img/react-projects/ecom-angular.jpg'
+import comingSoon from '../img/react-projects/coming-soon.jpg'
+import react from '../img/logo/react.png'
+import angular from '../img/logo/angular.png'
 
 export const data2 = [ 
     {
         "id":1,
-        "img":beachResort,
-        "title":"Beach Resort",
-        "content":"Its Beach Resort",
+        "img":comingSoon,
+        "logo": react,
+        "title":"Spotify Clone",
+        "content":"Spotify like Music Streaming Service",
         "dev":'React, MDB React, JSON',
-        "github":"https://github.com/Pranav50/BeachResort",
-        "demo":"https://pranav50.github.io/BeachResort/",
-        "desc":"Premium luxurious rooms services and comforts",
+        "github":"",
+        "demo":"",
+        "disabled":true,
+        "desc":"Spotify like Music Streaming Service",
         "extras": [
             "Luxurious rooms of various tastes",
             "Premium services provided",
@@ -37,11 +42,13 @@ export const data2 = [
     {
         "id":2,
         "img":imageFinder,
+        "logo": react,
         "title":"Image Finder",
         "content":"Its Image Finder",
         "dev":'React, Material UI, API',
         "github":"https://github.com/Pranav50/ImageFinder",
         "demo":"https://pranav50.github.io/ImageFinder/",
+        "disabled":false,
         "desc":"Find images from all over the world",
         "extras": [
             "All images in just one click",
@@ -58,13 +65,15 @@ export const data2 = [
     },
     {
         "id":3,
-        "img":lyricsFinder,
-        "title":"Lyrics Finder",
-        "content":"Its Lyrics Finder",
+        "img":comingSoon,
+        "logo": react,
+        "title":"Google Search Engine",
+        "content":"Search everything at your fingertips!",
         "dev":'React, MDB React, API',
-        "github":"https://github.com/Pranav50/LyricsSearch",
-        "demo":"https://lyricsdemo.herokuapp.com/",
-        "desc":"Get song lyrics at your fingertips!",
+        "github":"",
+        "demo":"",
+        "disabled":true,
+        "desc":"Search everything at your fingertips!",
         "extras": [
             "Find any song lyrics",
             "Lyrics in local as well as foreign language",
@@ -81,11 +90,13 @@ export const data2 = [
     {
         "id":4,
         "img":movieFinder,
+        "logo": react,
         "title":"Movie Finder",
         "content":"Its Movie",
         "dev":'React, React Bootstrap, API',
         "github":"https://github.com/Pranav50/MovieApp",
         "demo":"https://pranav50.github.io/MovieApp/",
+        "disabled":false,
         "desc":"Movie finding now easy",
         "extras": [
             "Search any movies and get detailed info",
@@ -104,11 +115,13 @@ export const data2 = [
     {
         "id":5,
         "img":youtubeClone,
+        "logo": react,
         "title":"Youtube Clone",
         "content":"Its Youtube Clone",
         "dev":'React, Material UI, API',
         "github":"https://github.com/Pranav50/YoutubeApp",
         "demo":"https://pranav50.github.io/YoutubeApp/",
+        "disabled":false,
         "desc":"Youtube clone developed in React",
         "extras": [
             "Search for any content",
@@ -127,11 +140,13 @@ export const data2 = [
     {
         "id":6,
         "img":toDoList,
+        "logo": react,
         "title":"To Do List",
         "content":"Its To Do List",
         "dev":'React, MDB React, LocalStorage',
         "github":"https://github.com/Pranav50/ToDoList",
         "demo":"https://pranav50.github.io/ToDoList/",
+        "disabled":false,
         "desc":"Simple ToDo List",
         "extras": [
             "Add, edit, delete and clear list features",
@@ -147,11 +162,13 @@ export const data2 = [
     {
         "id":7,
         "img":mShop,
+        "logo": react,
         "title":"MShop",
         "content":"Its MShop",
         "dev":'React, Bootstrap, LocalStorage, Stripe, JSON',
         "github":"https://github.com/Pranav50/MStore",
         "demo":"https://pranav50.github.io/MStore/",
+        "disabled":"",
         "desc":"Simple Mobile Store",
         "extras": [
             "Hovering effect on moblies",
@@ -174,12 +191,14 @@ export const data2 = [
     {
         "id":8,
         "img":weather,
-        "title":"Weather App",
-        "content":"Find Weather of all cities",
+        "logo": react,
+        "title":"Weather News App",
+        "content":"Find Weather and News",
         "dev":'React, Material UI, MBD React, API',
-        "github":"https://github.com/Pranav5000/WeatherApp",
-        "demo":"https://polished-leaf-255922.firebaseapp.com/",
-        "desc":"Find weather info of all cities from all over the world",
+        "github":"https://github.com/Pranav50/WeatherNewsApp",
+        "demo":"https://pranav50.github.io/WeatherNewsApp/",
+        "disabled":false,
+        "desc":"Find weather info and news around the globe",
         "extras": [
             "Daily, Hourly and Current weather info",
             "Sunrise, Sunset, Moonrise and Moonset timings",
@@ -191,7 +210,11 @@ export const data2 = [
             "Max and Min temp also displayed",
             "Country, city and all weather icons info shown by Tooltip",
             "Background weather image according to weather",
-            "Day and Night weather based on searched city's day/night"
+            "Day and Night weather based on searched city's day/night",
+            "Celcius to Fahrenheit Conversion",
+            "Day Night Toggle",
+            "Desktop and Mobile oriented",
+            "Seperate tabs for News and Weather"
         ],
         "tech": [
           "Material UI",
@@ -206,18 +229,22 @@ export const data2 = [
           "Bootstrap",
           "SVG Icons",
           "React Swipable Views",
-          "Material Tooltip"
+          "Material Tooltip",
+          "React Bootstrap",
+          "React Countup"
         ],
     },
     {
         "id":9,
-        "img":toDoMern,
-        "title":"ToDo List MERN ",
-        "content":"ToDo List in MERN Stack",
+        "img":comingSoon,
+        "logo": react,
+        "title":"Shopping MERN",
+        "content":"Amazon like Shopping Site",
         "dev":'React, MongoDB, Express, Node',
-        "github":"https://github.com/Pranav50/ToDoListMERN",
-        "demo":"https://shielded-scrubland-44470.herokuapp.com/",
-        "desc":"A simple MERN To Do List",
+        "github":"",
+        "demo":"",
+        "disabled":true,
+        "desc":"Amazon like Shopping Site",
         "extras": [
             "Add items in modal",
             "Transition effect on list deletion",
@@ -239,11 +266,13 @@ export const data2 = [
     {
         "id":10,
         "img":slackClone,
+        "logo": react,
         "title":"Slack Clone",
         "content":"Slack like experience",
         "dev":'React, Firebase, Semantic UI',
         "github":"https://github.com/Pranav50/SlackClone",
         "demo":"https://react-slack-62c47.firebaseapp.com",
+        "disabled":false,
         "desc":"Slack Clone built in React",
         "extras": [
             "Complete Slack like features",
@@ -269,5 +298,107 @@ export const data2 = [
             "React Avatar Editor",
             "Emoji Mart",
           ],
-    }
+    },
+    {
+      "id":11,
+      "img":comingSoon,
+      "logo": react,
+      "title":"Job Listing App",
+      "content":"Job Search App",
+      "dev":'React, MDB React, JSON',
+      "github":"",
+      "demo":"",
+      "disabled":true,
+      "desc":"Spotify like Music Streaming Service",
+      "extras": [
+          "Luxurious rooms of various tastes",
+          "Premium services provided",
+          "Room per day rate based on all budget",
+          "Filter room rates with slider",
+        ],
+        "tech": [
+          "MDBReact",
+          "React Icons",
+          "JSON Data",
+          "React Function Component"
+        ],
+  },
+  {
+    "id":12,
+    "img":comingSoon,
+    "logo": react,
+    "title":"Exercise Tracker MERN",
+    "content":"Exercise Tracker App",
+    "dev":'React, MDB React, JSON',
+    "github":"",
+    "demo":"",
+    "disabled":true,
+    "desc":"Spotify like Music Streaming Service",
+    "extras": [
+        "Luxurious rooms of various tastes",
+        "Premium services provided",
+        "Room per day rate based on all budget",
+        "Filter room rates with slider",
+      ],
+      "tech": [
+        "MDBReact",
+        "React Icons",
+        "JSON Data",
+        "React Function Component"
+      ],
+},
+{
+  "id":13,
+  "img":comingSoon,
+  "logo": react,
+  "title":"iMessage Clone",
+  "content":"The clone of Popular iMessage App",
+  "dev":'React, MDB React, JSON',
+  "github":"",
+  "demo":"",
+  "disabled":true,
+  "desc":"iMessage Service",
+  "extras": [
+      "Luxurious rooms of various tastes",
+      "Premium services provided",
+      "Room per day rate based on all budget",
+      "Filter room rates with slider",
+    ],
+    "tech": [
+      "MDBReact",
+      "React Icons",
+      "JSON Data",
+      "React Function Component"
+    ],
+},
+{
+  "id":14,
+  "img":eComAngular,
+  "logo": angular,
+  "title":"Ecommerce in Angular and Firebase",
+  "content":"Fully functional ECommerce Site",
+  "dev":'Angular 7, MDB Angular',
+  "github":"https://github.com/Pranav50/E-Commerce",
+  "demo":"https://angularshop-4e6b0.firebaseapp.com/",
+  "disabled":false,
+  "desc":"Shopping Site developed in Angular",
+  "extras": [
+      "Branded Watches of all tastes",
+      "Watches sorted based on various categories",
+      "Beautiful UI and Web Animations",
+      "Login Logout with Google",
+      "Admin Page",
+      "Pagination",
+      "Payment Proceessing",
+      "Stepper at Checkout"
+    ],
+    "tech": [
+      "Angular Material",
+      "Angular Fire",
+      "Font Awesome",
+      "NGX Pagination",
+      "NGX Stripe",
+      "NGX Toastr"
+    ],
+}
 ]

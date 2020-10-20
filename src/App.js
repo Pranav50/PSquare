@@ -137,7 +137,8 @@ class App extends Component {
                     <Grid id="section_3" style={{width:'auto', padding:'0px'}}>
                     <AboutMe/></Grid>
                     <Grid id="section_4" style={{width:'auto', padding:'0px'}}>
-                    <Contact/></Grid>
+                    <Contact/>
+                    </Grid>
                     <Footer/>
                     </Content>
 

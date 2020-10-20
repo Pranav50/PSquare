@@ -1,10 +1,11 @@
 import React, { Component } from 'react'
 import { Layout, Header} from 'react-mdl'
-import { MDBBtn,MDBContainer,MDBRow, MDBCard, MDBCardBody, MDBCardImage, MDBCardTitle, MDBCardText, MDBCol } from 'mdbreact'
+import { MDBContainer,MDBRow, MDBCard, MDBCardBody, MDBCardImage, MDBCardTitle, MDBCardText, MDBCol } from 'mdbreact'
 import { MDBJumbotron} from "mdbreact";
 import Logo from '../img/psquare.png';
 import starImage from '../img/drop.png'
 import {Link} from 'react-router-dom'
+import Button from 'react-bootstrap/Button'
 import {Text } from 'gestalt'
 
 import '../App.css' 
@@ -40,7 +41,7 @@ export default class Details extends Component {
                 <MDBRow >      
                     <MDBCol>
                         <MDBCard className="card-image" style={{boxShadow:'0 10px 10px -2px #1e272e'}}>
-                            <MDBCardImage height="auto" width="auto" className="img-fluid" src={img} waves />
+                        <img className="img-fluid" src={img} style={{height:'auto', width:'auto'}}/>
                         </MDBCard>
                     </MDBCol> 
                 </MDBRow>
@@ -67,7 +68,6 @@ export default class Details extends Component {
                 })}
                 </ul>
                 </section>
-                {/* Technology Used */}
                 <h4 className="lead" className="text-center" 
                 style={{color:'#dfe4ea', fontFamily:'Raleway', marginTop:'-10px'}}>
                 Technology Used
@@ -83,12 +83,12 @@ export default class Details extends Component {
                   </ul>
                   </section>
                   
-                  <MDBBtn className="btn2" color="light-blue"
+                  <Button variant="info" className="btn2" color="light-blue"
                   style={{marginLeft:'25%', marginTop:'5%'}} href={demo} target="_blank">
                   <Text color="pine" size="xl">Live Demo</Text> 
-                  </MDBBtn>
+                  </Button>
 
-              </MDBJumbotron>  
+              </MDBJumbotron> 
               
             </MDBContainer>
             
@@ -102,7 +102,7 @@ export default class Details extends Component {
         
     </MDBRow>
     
-    </MDBContainer>
+    </MDBContainer> 
      
     </div>      
 </Layout>
