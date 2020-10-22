@@ -17,14 +17,11 @@ export default class Projects extends Component {
       <MDBRow >      
       {  
         data2.map((data, index) => {
-          console.log('DATA', data)
           return <MDBCol key={index} md="12" lg="6" >
-          <MDBCard style={{ width: '100%'}}>
+          <MDBCard style={{ width: '100%'}} className="project-card">
           <Link to={{ pathname: `/details/${data.id}`, data:data }} style={{...(data.disabled ? {pointerEvents: 'none'} : {pointerEvents: 'auto'})}}>
-          <img className="img-fluid" src={data.img}
-          style={{height:'20rem', width:'40rem'}}
-          
-          />
+          <img src={data.img}
+          style={{height:'20rem', width:'100%'}}/>
           </Link>
           <MDBCardBody>
             <MDBCardTitle style={{color:'black'}}>{data.title}</MDBCardTitle>

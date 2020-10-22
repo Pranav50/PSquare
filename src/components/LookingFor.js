@@ -4,8 +4,7 @@ export class LookingFor extends Component {
     render() {
         return ( 
             <section>
-                <p className="text-justify" 
-                style={{fontFamily:'Muli', fontSize:'120%'}}>
+                <p className="lookingForText">
                 React is an eternal and imperative JavaScript framework due 
                 to its simplicity, scalability and speed which makes it 
                 unparalleled with respect to other frameworks. I'am looking for 

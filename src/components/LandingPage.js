@@ -15,7 +15,7 @@ export default class LandingPage extends Component {
                     <img className="avatar-img"
                     src={Pranav} alt=""/>
                     <h3 style={{color:'#0a3d62'}}>Pranav Pawar</h3>
-                    <div className="banner-text">
+                    <div className="banner">
                         <h1 className="glow">Web Developer</h1>
                         <hr/>
                         <p>HTML/CSS | React | JavaScript | Node JS | MongoDB | Firebase</p>
@@ -30,19 +30,6 @@ export default class LandingPage extends Component {
                             <img src={linkedin} height="180%" width="55%" alt=""/>
                   </a>
                   </MDBListGroupItem>
-
-                        {/* <div className="social-links">
-                            <Grid>
-                            <a href="https://github.com/Pranav50" rel="noopener noreferrer" target="_blank">
-                            <img src={github} height="180%" width="55%" style={{marginTop:'-15px'}} alt=""/>
-                            </a>
-                            </Grid>
-                            <Grid>
-                            <a href="https://www.linkedin.com/in/pranav-pawar-661b9838/" rel="noopener noreferrer" target="_blank">
-                            <img src={linkedin} height="180%" width="55%" style={{marginTop:'-15px'}} alt=""/>
-                            </a> 
-                            </Grid>
-                        </div> */}
                     </div>
                     </Cell>
     </Grid>

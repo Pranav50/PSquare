@@ -18,7 +18,7 @@ background: linear-gradient(to right, #0052D4, #65C7F7, #9CECFB); /* W3C, IE
   top: 0;
   left: 0;
   width: 100%;
-  height: 760px;
+  height: 710px;
 }
 
 .box {
@@ -95,7 +95,7 @@ background: linear-gradient(to right, #0052D4, #65C7F7, #9CECFB); /* W3C, IE
   margin-top: 4%;
 }
 
-.banner-text {
+.banner {
   background:  linear-gradient(to right, #192a56, #9cecfb);;
   width: 75%;
   margin: auto;
@@ -105,7 +105,7 @@ background: linear-gradient(to right, #0052D4, #65C7F7, #9CECFB); /* W3C, IE
   box-shadow: 5px 12px 22px black;
 }
 
-.banner-text h1 {
+.banner h1 {
   font-size: 56px;
   font-weight: bold;
   color: white;
@@ -122,13 +122,13 @@ background: linear-gradient(to right, #0052D4, #65C7F7, #9CECFB); /* W3C, IE
 
 
 
-.banner-text hr {
+.banner hr {
   border-top: 5px dotted white;
   width: 50%;
   margin: auto;
 }
 
-.banner-text p {
+.banner p {
   color: white;
   font-size: 20px;
   padding: 1em;
@@ -140,7 +140,6 @@ background: linear-gradient(to right, #0052D4, #65C7F7, #9CECFB); /* W3C, IE
   width: 30%;
   margin: auto;
 }
-
 
 /* Hamburger Menu */
 .menu {
@@ -342,8 +341,8 @@ b {
 }
 
 @media only screen and (max-width: 568px) {
-  .banner-text {
-    height: 54%;
+  .banner {
+    height: 40%;
   }
 }
 
@@ -353,7 +352,7 @@ h3 {
 }
 /* Landing Page CSS */
 .landing-body {
-  height: auto;
+  height: 50%;
 }
 
 /* Projects CSS */
@@ -484,6 +483,55 @@ h3 {
 .app-grid {
   width: auto;
   padding: 0px;
+}
+
+.extras li {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.extras li img {
+  width: 12%;
+  height: 100%;
+  margin-top: -0.5rem;
+}
+
+.extras li .extras-text {
+  width: 88%;
+  height: 100%;
+  padding-top: 0.5rem;
+}
+
+.extras2 {
+  font-family: 'Muli', sans-serif;
+  color:#dfe4ea;
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-column-gap: 8rem;
+  grid-row-gap: 1rem;
+}
+
+.lookingForText, .nowWhatText {
+  text-align: justify;
+  font-family:'Muli';
+  font-size:17px;
+  width: 98%;
+}
+
+/* For Mobile View */
+@media (max-width: 640px) and (min-width: 360px) {
+  .banner .glow {
+    font-size: 30px;
+  }
+
+  .landing-grid {
+    height: 640px;
+  }
+
+  .list-group-item {
+    margin-top: -2.2rem;
+  }
 }
 
   

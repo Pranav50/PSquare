@@ -3,11 +3,10 @@ import { Layout, Header} from 'react-mdl'
 import { MDBContainer,MDBRow, MDBCard, MDBCardBody, MDBCardImage, MDBCardTitle, MDBCardText, MDBCol } from 'mdbreact'
 import { MDBJumbotron} from "mdbreact";
 import Logo from '../img/psquare.png';
-import starImage from '../img/drop.png'
+import dropImage from '../img/drop.png'
 import {Link} from 'react-router-dom'
 import Button from 'react-bootstrap/Button'
 import {Text } from 'gestalt'
-
 import '../App.css' 
 
 export default class Details extends Component {  
@@ -62,8 +61,8 @@ export default class Details extends Component {
                 <ul className="extras"> 
                 {extras.map((item, index) => {
                     return <li key={index}>
-                    <img src={starImage} height="10%" width="10%" /> 
-                    {item}
+                        <img src={dropImage}/> 
+                        <div className="extras-text">{item}</div>
                     </li>
                 })}
                 </ul>
@@ -73,10 +72,10 @@ export default class Details extends Component {
                 Technology Used
                 </h4>
                 <section> 
-                  <ul className="extras"> 
+                  <ul className="extras2"> 
                   {tech.map((item, index) => {
                       return <li key={index}>
-                      <img src={starImage} height="10%" width="10%" /> 
+                      <img src={dropImage} height="10%" width="10%" /> 
                       {item}
                       </li>
                   })}
