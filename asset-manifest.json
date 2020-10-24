@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/PSquare/static/css/main.d35270ef.chunk.css",
-    "main.js": "/PSquare/static/js/main.117b341c.chunk.js",
-    "main.js.map": "/PSquare/static/js/main.117b341c.chunk.js.map",
+    "main.js": "/PSquare/static/js/main.aedbd9df.chunk.js",
+    "main.js.map": "/PSquare/static/js/main.aedbd9df.chunk.js.map",
     "runtime-main.js": "/PSquare/static/js/runtime-main.adebbfde.js",
     "runtime-main.js.map": "/PSquare/static/js/runtime-main.adebbfde.js.map",
     "static/css/2.236950b9.chunk.css": "/PSquare/static/css/2.236950b9.chunk.css",
-    "static/js/2.525d935e.chunk.js": "/PSquare/static/js/2.525d935e.chunk.js",
-    "static/js/2.525d935e.chunk.js.map": "/PSquare/static/js/2.525d935e.chunk.js.map",
+    "static/js/2.63ffc356.chunk.js": "/PSquare/static/js/2.63ffc356.chunk.js",
+    "static/js/2.63ffc356.chunk.js.map": "/PSquare/static/js/2.63ffc356.chunk.js.map",
     "index.html": "/PSquare/index.html",
-    "precache-manifest.2665f36aa5147fd29f137a0d97f12bd9.js": "/PSquare/precache-manifest.2665f36aa5147fd29f137a0d97f12bd9.js",
+    "precache-manifest.97aeaa25c4330ee66cb1bb4656fdbc15.js": "/PSquare/precache-manifest.97aeaa25c4330ee66cb1bb4656fdbc15.js",
     "service-worker.js": "/PSquare/service-worker.js",
     "static/css/2.236950b9.chunk.css.map": "/PSquare/static/css/2.236950b9.chunk.css.map",
     "static/css/main.d35270ef.chunk.css.map": "/PSquare/static/css/main.d35270ef.chunk.css.map",
-    "static/js/2.525d935e.chunk.js.LICENSE.txt": "/PSquare/static/js/2.525d935e.chunk.js.LICENSE.txt",
+    "static/js/2.63ffc356.chunk.js.LICENSE.txt": "/PSquare/static/js/2.63ffc356.chunk.js.LICENSE.txt",
     "static/media/Pranav_new2.png": "/PSquare/static/media/Pranav_new2.ba281881.png",
     "static/media/mdb.css": "/PSquare/static/media/arrow_right.8ef6a08c.svg",
     "static/media/beach-resort.jpg": "/PSquare/static/media/beach-resort.4080a2de.jpg",
@@ -24,6 +24,7 @@
     "static/media/drop.png": "/PSquare/static/media/drop.a65fa6d3.png",
     "static/media/ecom-angular.jpg": "/PSquare/static/media/ecom-angular.6d57dd2c.jpg",
     "static/media/all.min.css": "/PSquare/static/media/fa-solid-900.8e1ed89b.woff2",
+    "static/media/google-clone.jpg": "/PSquare/static/media/google-clone.17474208.jpg",
     "static/media/image-finder.jpg": "/PSquare/static/media/image-finder.38af28d7.jpg",
     "static/media/lyrics-finder.jpg": "/PSquare/static/media/lyrics-finder.b11e8901.jpg",
     "static/media/movie-finder.jpg": "/PSquare/static/media/movie-finder.88b84888.jpg",
@@ -39,8 +40,8 @@
   "entrypoints": [
     "static/js/runtime-main.adebbfde.js",
     "static/css/2.236950b9.chunk.css",
-    "static/js/2.525d935e.chunk.js",
+    "static/js/2.63ffc356.chunk.js",
     "static/css/main.d35270ef.chunk.css",
-    "static/js/main.117b341c.chunk.js"
+    "static/js/main.aedbd9df.chunk.js"
   ]
 }
