@@ -3,6 +3,7 @@ import imageFinder from '../img/react-projects/image-finder.jpg'
 import lyricsFinder from '../img/react-projects/lyrics-finder.jpg'
 import movieFinder from '../img/react-projects/movie-finder.jpg'
 import slackClone from '../img/react-projects/slack-clone.jpg'
+import googleClone from '../img/react-projects/google-clone.jpg'
 import youtubeClone from '../img/react-projects/youtube-clone.jpg'
 import toDoList from '../img/react-projects/todo-list.jpg'
 import toDoListFirebase from '../img/react-projects/todo-list-firebase.jpg'
@@ -19,8 +20,8 @@ export const data2 = [
         "id":1,
         "img":comingSoon,
         "logo": react,
-        "title":"Music App",
-        "content":"Music Streaming Service like Youtube Music",
+        "title":"Instagram Clone MERN",
+        "content":"Instagram like App",
         "dev":'React, MDB React, JSON',
         "github":"",
         "demo":"",
@@ -65,26 +66,24 @@ export const data2 = [
     },
     {
         "id":3,
-        "img":comingSoon,
+        "img":googleClone,
         "logo": react,
-        "title":"Google Search Engine",
+        "title":"Google Clone",
         "content":"Search everything at your fingertips!",
         "dev":'React, MDB React, API',
-        "github":"",
-        "demo":"",
-        "disabled":true,
+        "github":"https://github.com/Pranav50/google-clone",
+        "demo":"https://search-32401.web.app/",
+        "disabled":false,
         "desc":"Search everything at your fingertips!",
         "extras": [
-            "Find any song lyrics",
-            "Lyrics in local as well as foreign language",
-            "Release date for all songs",
-            "Beautiful UI"
+            "Search Engine like real Google",
+            "Data stored in localStorage",
+            "Google like UI and functions",
           ],
           "tech": [
-            "MDBReact",
-            "Moment.js",
-            "API",
-            "React Function Component"
+            "Material UI",
+            "Material UI Icons",
+            "Google Search and Context API"
           ],
     },
     {
