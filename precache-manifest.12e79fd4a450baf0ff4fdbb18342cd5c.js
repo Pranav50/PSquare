@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02deb4691aaac3f7a0047f36c61023be",
+    "revision": "b50243337d94813128a7afcef3a747d0",
     "url": "/PSquare/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PSquare/static/css/2.236950b9.chunk.css"
   },
   {
-    "revision": "57f7866bda447a256ece",
+    "revision": "d41cae041d5142f58136",
     "url": "/PSquare/static/css/main.d35270ef.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PSquare/static/js/2.63ffc356.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "57f7866bda447a256ece",
-    "url": "/PSquare/static/js/main.aedbd9df.chunk.js"
+    "revision": "d41cae041d5142f58136",
+    "url": "/PSquare/static/js/main.87ef4d33.chunk.js"
   },
   {
     "revision": "15a7867b3e5ed5401985",
@@ -168,8 +168,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PSquare/static/media/todo-mern.85cf70f4.jpg"
   },
   {
-    "revision": "884eade25f013957ac9ea0367c0bbed4",
-    "url": "/PSquare/static/media/weather.884eade2.jpg"
+    "revision": "d1a97e189cf4cdc4bcdfdebf9154f325",
+    "url": "/PSquare/static/media/weather.d1a97e18.jpg"
   },
   {
     "revision": "7a15fa5132123b4b009ce1be2ebc3192",
