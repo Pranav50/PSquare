@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b50243337d94813128a7afcef3a747d0",
+    "revision": "91c148e65c9902574a901d732ad75ee3",
     "url": "/PSquare/index.html"
   },
   {
-    "revision": "be46d227eefd06e1d207",
+    "revision": "91dd928b3f272ba2ebeb",
     "url": "/PSquare/static/css/2.236950b9.chunk.css"
   },
   {
-    "revision": "d41cae041d5142f58136",
+    "revision": "0f749377ab00056a53f7",
     "url": "/PSquare/static/css/main.d35270ef.chunk.css"
   },
   {
-    "revision": "be46d227eefd06e1d207",
-    "url": "/PSquare/static/js/2.63ffc356.chunk.js"
+    "revision": "91dd928b3f272ba2ebeb",
+    "url": "/PSquare/static/js/2.3bac6bb8.chunk.js"
   },
   {
     "revision": "76296cb225daf879ee5d37f81f07369d",
-    "url": "/PSquare/static/js/2.63ffc356.chunk.js.LICENSE.txt"
+    "url": "/PSquare/static/js/2.3bac6bb8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d41cae041d5142f58136",
-    "url": "/PSquare/static/js/main.87ef4d33.chunk.js"
+    "revision": "0f749377ab00056a53f7",
+    "url": "/PSquare/static/js/main.33bd9952.chunk.js"
   },
   {
     "revision": "15a7867b3e5ed5401985",
@@ -150,6 +150,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7c0fdc490914ad5e54763db4ef955066",
     "url": "/PSquare/static/media/react.7c0fdc49.png"
+  },
+  {
+    "revision": "634970a3f1ae75696d8d034840c2d055",
+    "url": "/PSquare/static/media/recipe-finder.634970a3.jpg"
   },
   {
     "revision": "e96c79378492c155aae696cc4fc95449",

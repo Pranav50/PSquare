@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/PSquare/static/css/main.d35270ef.chunk.css",
-    "main.js": "/PSquare/static/js/main.87ef4d33.chunk.js",
-    "main.js.map": "/PSquare/static/js/main.87ef4d33.chunk.js.map",
+    "main.js": "/PSquare/static/js/main.33bd9952.chunk.js",
+    "main.js.map": "/PSquare/static/js/main.33bd9952.chunk.js.map",
     "runtime-main.js": "/PSquare/static/js/runtime-main.adebbfde.js",
     "runtime-main.js.map": "/PSquare/static/js/runtime-main.adebbfde.js.map",
     "static/css/2.236950b9.chunk.css": "/PSquare/static/css/2.236950b9.chunk.css",
-    "static/js/2.63ffc356.chunk.js": "/PSquare/static/js/2.63ffc356.chunk.js",
-    "static/js/2.63ffc356.chunk.js.map": "/PSquare/static/js/2.63ffc356.chunk.js.map",
+    "static/js/2.3bac6bb8.chunk.js": "/PSquare/static/js/2.3bac6bb8.chunk.js",
+    "static/js/2.3bac6bb8.chunk.js.map": "/PSquare/static/js/2.3bac6bb8.chunk.js.map",
     "index.html": "/PSquare/index.html",
-    "precache-manifest.12e79fd4a450baf0ff4fdbb18342cd5c.js": "/PSquare/precache-manifest.12e79fd4a450baf0ff4fdbb18342cd5c.js",
+    "precache-manifest.b2d38b21fdbc088caf52d0db75fa1653.js": "/PSquare/precache-manifest.b2d38b21fdbc088caf52d0db75fa1653.js",
     "service-worker.js": "/PSquare/service-worker.js",
     "static/css/2.236950b9.chunk.css.map": "/PSquare/static/css/2.236950b9.chunk.css.map",
     "static/css/main.d35270ef.chunk.css.map": "/PSquare/static/css/main.d35270ef.chunk.css.map",
-    "static/js/2.63ffc356.chunk.js.LICENSE.txt": "/PSquare/static/js/2.63ffc356.chunk.js.LICENSE.txt",
+    "static/js/2.3bac6bb8.chunk.js.LICENSE.txt": "/PSquare/static/js/2.3bac6bb8.chunk.js.LICENSE.txt",
     "static/media/Pranav_new2.png": "/PSquare/static/media/Pranav_new2.ba281881.png",
     "static/media/mdb.css": "/PSquare/static/media/arrow_right.8ef6a08c.svg",
     "static/media/beach-resort.jpg": "/PSquare/static/media/beach-resort.4080a2de.jpg",
@@ -30,6 +30,7 @@
     "static/media/movie-finder.jpg": "/PSquare/static/media/movie-finder.88b84888.jpg",
     "static/media/mshop.jpg": "/PSquare/static/media/mshop.b5d63737.jpg",
     "static/media/react.png": "/PSquare/static/media/react.7c0fdc49.png",
+    "static/media/recipe-finder.jpg": "/PSquare/static/media/recipe-finder.634970a3.jpg",
     "static/media/slack-clone.jpg": "/PSquare/static/media/slack-clone.e96c7937.jpg",
     "static/media/todo-list-firebase.jpg": "/PSquare/static/media/todo-list-firebase.9e0776f7.jpg",
     "static/media/todo-list.jpg": "/PSquare/static/media/todo-list.54bfee0b.jpg",
@@ -40,8 +41,8 @@
   "entrypoints": [
     "static/js/runtime-main.adebbfde.js",
     "static/css/2.236950b9.chunk.css",
-    "static/js/2.63ffc356.chunk.js",
+    "static/js/2.3bac6bb8.chunk.js",
     "static/css/main.d35270ef.chunk.css",
-    "static/js/main.87ef4d33.chunk.js"
+    "static/js/main.33bd9952.chunk.js"
   ]
 }
