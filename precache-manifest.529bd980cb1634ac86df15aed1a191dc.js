@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91c148e65c9902574a901d732ad75ee3",
+    "revision": "ac8df205afa9bb7e6d8884fe4130bd83",
     "url": "/PSquare/index.html"
   },
   {
-    "revision": "91dd928b3f272ba2ebeb",
+    "revision": "de944d305b1ed3ab7486",
     "url": "/PSquare/static/css/2.236950b9.chunk.css"
   },
   {
-    "revision": "0f749377ab00056a53f7",
-    "url": "/PSquare/static/css/main.d35270ef.chunk.css"
+    "revision": "3c3d959d731540489a7c",
+    "url": "/PSquare/static/css/main.2485cf6b.chunk.css"
   },
   {
-    "revision": "91dd928b3f272ba2ebeb",
-    "url": "/PSquare/static/js/2.3bac6bb8.chunk.js"
+    "revision": "de944d305b1ed3ab7486",
+    "url": "/PSquare/static/js/2.d0f68803.chunk.js"
   },
   {
     "revision": "76296cb225daf879ee5d37f81f07369d",
-    "url": "/PSquare/static/js/2.3bac6bb8.chunk.js.LICENSE.txt"
+    "url": "/PSquare/static/js/2.d0f68803.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f749377ab00056a53f7",
-    "url": "/PSquare/static/js/main.33bd9952.chunk.js"
+    "revision": "3c3d959d731540489a7c",
+    "url": "/PSquare/static/js/main.f184b0b6.chunk.js"
   },
   {
     "revision": "15a7867b3e5ed5401985",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6d57dd2c11d04e584a4d183a906c7bd5",
     "url": "/PSquare/static/media/ecom-angular.6d57dd2c.jpg"
+  },
+  {
+    "revision": "f1af2da0f29f208190b811074c43f64f",
+    "url": "/PSquare/static/media/ecommerce.f1af2da0.jpg"
   },
   {
     "revision": "2f12242375edd68e9013ecfb59c672e9",
@@ -134,6 +138,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "38af28d7ffa8f4fab354bac5f64e0d5d",
     "url": "/PSquare/static/media/image-finder.38af28d7.jpg"
+  },
+  {
+    "revision": "b594b5e18a54addf8ec293076269dd08",
+    "url": "/PSquare/static/media/instagram-mern.b594b5e1.jpg"
   },
   {
     "revision": "b11e890196c0c65fbb85382207ca5845",
