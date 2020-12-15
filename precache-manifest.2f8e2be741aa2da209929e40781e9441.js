@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e75a6b617d476b136c9865edeb71b89b",
+    "revision": "f975510edd96e6ad658ec6e09b6a81b2",
     "url": "/PSquare/index.html"
   },
   {
-    "revision": "de944d305b1ed3ab7486",
+    "revision": "1109716165aa67564068",
     "url": "/PSquare/static/css/2.236950b9.chunk.css"
   },
   {
-    "revision": "2972583af8a6fdaab456",
+    "revision": "e2705b8d4100b535c54b",
     "url": "/PSquare/static/css/main.2485cf6b.chunk.css"
   },
   {
-    "revision": "de944d305b1ed3ab7486",
-    "url": "/PSquare/static/js/2.d0f68803.chunk.js"
+    "revision": "1109716165aa67564068",
+    "url": "/PSquare/static/js/2.ccb1c0cb.chunk.js"
   },
   {
     "revision": "76296cb225daf879ee5d37f81f07369d",
-    "url": "/PSquare/static/js/2.d0f68803.chunk.js.LICENSE.txt"
+    "url": "/PSquare/static/js/2.ccb1c0cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2972583af8a6fdaab456",
-    "url": "/PSquare/static/js/main.2184f861.chunk.js"
+    "revision": "e2705b8d4100b535c54b",
+    "url": "/PSquare/static/js/main.a0487549.chunk.js"
   },
   {
     "revision": "15a7867b3e5ed5401985",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6e8c4712fc60ce325937d95afeb3610b",
     "url": "/PSquare/static/media/coming-soon.6e8c4712.jpg"
+  },
+  {
+    "revision": "5c2f56ffbe9233f9210c0676fb201162",
+    "url": "/PSquare/static/media/digital-ocean2.5c2f56ff.png"
   },
   {
     "revision": "771f05020ca2d7a0c88bcf84f61175ee",
@@ -132,12 +136,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PSquare/static/media/fa-solid-900.8e1ed89b.woff2"
   },
   {
+    "revision": "a1a4f6968d81ce96a4391a38eba1c568",
+    "url": "/PSquare/static/media/firebase.a1a4f696.png"
+  },
+  {
     "revision": "1747420817db253ee381eb3d8bd7befa",
     "url": "/PSquare/static/media/google-clone.17474208.jpg"
   },
   {
+    "revision": "485655936c824ceb185afea334c62661",
+    "url": "/PSquare/static/media/heroku.48565593.png"
+  },
+  {
     "revision": "38af28d7ffa8f4fab354bac5f64e0d5d",
     "url": "/PSquare/static/media/image-finder.38af28d7.jpg"
+  },
+  {
+    "revision": "d65319f04e91641622953c14c0fe7f95",
+    "url": "/PSquare/static/media/imessage-clone.d65319f0.jpg"
   },
   {
     "revision": "e6d6d881b0b26ceb55e4f1ded94f2261",
@@ -154,6 +170,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b5d63737b5b27a678d811eb09bc6d363",
     "url": "/PSquare/static/media/mshop.b5d63737.jpg"
+  },
+  {
+    "revision": "95e178f5b1dc1a2327595784442a866c",
+    "url": "/PSquare/static/media/netlify.95e178f5.png"
   },
   {
     "revision": "7c0fdc490914ad5e54763db4ef955066",
