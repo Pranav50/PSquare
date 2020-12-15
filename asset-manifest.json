@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PSquare/static/css/main.2485cf6b.chunk.css",
-    "main.js": "/PSquare/static/js/main.1a991ae9.chunk.js",
-    "main.js.map": "/PSquare/static/js/main.1a991ae9.chunk.js.map",
+    "main.js": "/PSquare/static/js/main.fb22b1d0.chunk.js",
+    "main.js.map": "/PSquare/static/js/main.fb22b1d0.chunk.js.map",
     "runtime-main.js": "/PSquare/static/js/runtime-main.adebbfde.js",
     "runtime-main.js.map": "/PSquare/static/js/runtime-main.adebbfde.js.map",
     "static/css/2.236950b9.chunk.css": "/PSquare/static/css/2.236950b9.chunk.css",
     "static/js/2.ccb1c0cb.chunk.js": "/PSquare/static/js/2.ccb1c0cb.chunk.js",
     "static/js/2.ccb1c0cb.chunk.js.map": "/PSquare/static/js/2.ccb1c0cb.chunk.js.map",
     "index.html": "/PSquare/index.html",
-    "precache-manifest.382c280e368c6450cf245150a12cb730.js": "/PSquare/precache-manifest.382c280e368c6450cf245150a12cb730.js",
+    "precache-manifest.371acf344b9b84b15b825a1bef59374c.js": "/PSquare/precache-manifest.371acf344b9b84b15b825a1bef59374c.js",
     "service-worker.js": "/PSquare/service-worker.js",
     "static/css/2.236950b9.chunk.css.map": "/PSquare/static/css/2.236950b9.chunk.css.map",
     "static/css/main.2485cf6b.chunk.css.map": "/PSquare/static/css/main.2485cf6b.chunk.css.map",
@@ -29,11 +29,11 @@
     "static/media/firebase.png": "/PSquare/static/media/firebase.a1a4f696.png",
     "static/media/google-clone.jpg": "/PSquare/static/media/google-clone.17474208.jpg",
     "static/media/heroku.png": "/PSquare/static/media/heroku.48565593.png",
-    "static/media/image-finder.jpg": "/PSquare/static/media/image-finder.38af28d7.jpg",
+    "static/media/image-finder.jpg": "/PSquare/static/media/image-finder.2ae91cf2.jpg",
     "static/media/imessage-clone.jpg": "/PSquare/static/media/imessage-clone.d65319f0.jpg",
     "static/media/instagram-mern.jpg": "/PSquare/static/media/instagram-mern.e6d6d881.jpg",
     "static/media/lyrics-finder.jpg": "/PSquare/static/media/lyrics-finder.b11e8901.jpg",
-    "static/media/movie-finder.jpg": "/PSquare/static/media/movie-finder.88b84888.jpg",
+    "static/media/movie-finder.jpg": "/PSquare/static/media/movie-finder.f18b4d40.jpg",
     "static/media/mshop.jpg": "/PSquare/static/media/mshop.b5d63737.jpg",
     "static/media/netlify.png": "/PSquare/static/media/netlify.95e178f5.png",
     "static/media/react.png": "/PSquare/static/media/react.7c0fdc49.png",
@@ -50,6 +50,6 @@
     "static/css/2.236950b9.chunk.css",
     "static/js/2.ccb1c0cb.chunk.js",
     "static/css/main.2485cf6b.chunk.css",
-    "static/js/main.1a991ae9.chunk.js"
+    "static/js/main.fb22b1d0.chunk.js"
   ]
 }
