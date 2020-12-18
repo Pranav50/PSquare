@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dffb58f28bdb840b3b1b42f2e6f99e9b",
+    "revision": "207919b11e3aa50da8a46f26cebc831d",
     "url": "/PSquare/index.html"
   },
   {
-    "revision": "1109716165aa67564068",
+    "revision": "31bf04c485c2acfe6e10",
     "url": "/PSquare/static/css/2.236950b9.chunk.css"
   },
   {
-    "revision": "554f96d76dd7f5eb2595",
+    "revision": "af11924b0f1c5f890aec",
     "url": "/PSquare/static/css/main.2485cf6b.chunk.css"
   },
   {
-    "revision": "1109716165aa67564068",
-    "url": "/PSquare/static/js/2.ccb1c0cb.chunk.js"
+    "revision": "31bf04c485c2acfe6e10",
+    "url": "/PSquare/static/js/2.5cb1d14d.chunk.js"
   },
   {
     "revision": "76296cb225daf879ee5d37f81f07369d",
-    "url": "/PSquare/static/js/2.ccb1c0cb.chunk.js.LICENSE.txt"
+    "url": "/PSquare/static/js/2.5cb1d14d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "554f96d76dd7f5eb2595",
-    "url": "/PSquare/static/js/main.fb22b1d0.chunk.js"
+    "revision": "af11924b0f1c5f890aec",
+    "url": "/PSquare/static/js/main.5237c8de.chunk.js"
   },
   {
     "revision": "15a7867b3e5ed5401985",

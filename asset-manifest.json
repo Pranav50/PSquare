@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/PSquare/static/css/main.2485cf6b.chunk.css",
-    "main.js": "/PSquare/static/js/main.fb22b1d0.chunk.js",
-    "main.js.map": "/PSquare/static/js/main.fb22b1d0.chunk.js.map",
+    "main.js": "/PSquare/static/js/main.5237c8de.chunk.js",
+    "main.js.map": "/PSquare/static/js/main.5237c8de.chunk.js.map",
     "runtime-main.js": "/PSquare/static/js/runtime-main.adebbfde.js",
     "runtime-main.js.map": "/PSquare/static/js/runtime-main.adebbfde.js.map",
     "static/css/2.236950b9.chunk.css": "/PSquare/static/css/2.236950b9.chunk.css",
-    "static/js/2.ccb1c0cb.chunk.js": "/PSquare/static/js/2.ccb1c0cb.chunk.js",
-    "static/js/2.ccb1c0cb.chunk.js.map": "/PSquare/static/js/2.ccb1c0cb.chunk.js.map",
+    "static/js/2.5cb1d14d.chunk.js": "/PSquare/static/js/2.5cb1d14d.chunk.js",
+    "static/js/2.5cb1d14d.chunk.js.map": "/PSquare/static/js/2.5cb1d14d.chunk.js.map",
     "index.html": "/PSquare/index.html",
-    "precache-manifest.371acf344b9b84b15b825a1bef59374c.js": "/PSquare/precache-manifest.371acf344b9b84b15b825a1bef59374c.js",
+    "precache-manifest.0feca39e67df77fb8e30f80eb352ecff.js": "/PSquare/precache-manifest.0feca39e67df77fb8e30f80eb352ecff.js",
     "service-worker.js": "/PSquare/service-worker.js",
     "static/css/2.236950b9.chunk.css.map": "/PSquare/static/css/2.236950b9.chunk.css.map",
     "static/css/main.2485cf6b.chunk.css.map": "/PSquare/static/css/main.2485cf6b.chunk.css.map",
-    "static/js/2.ccb1c0cb.chunk.js.LICENSE.txt": "/PSquare/static/js/2.ccb1c0cb.chunk.js.LICENSE.txt",
+    "static/js/2.5cb1d14d.chunk.js.LICENSE.txt": "/PSquare/static/js/2.5cb1d14d.chunk.js.LICENSE.txt",
     "static/media/Pranav_new2.png": "/PSquare/static/media/Pranav_new2.ba281881.png",
     "static/media/mdb.css": "/PSquare/static/media/arrow_right.8ef6a08c.svg",
     "static/media/beach-resort.jpg": "/PSquare/static/media/beach-resort.4080a2de.jpg",
@@ -48,8 +48,8 @@
   "entrypoints": [
     "static/js/runtime-main.adebbfde.js",
     "static/css/2.236950b9.chunk.css",
-    "static/js/2.ccb1c0cb.chunk.js",
+    "static/js/2.5cb1d14d.chunk.js",
     "static/css/main.2485cf6b.chunk.css",
-    "static/js/main.fb22b1d0.chunk.js"
+    "static/js/main.5237c8de.chunk.js"
   ]
 }
