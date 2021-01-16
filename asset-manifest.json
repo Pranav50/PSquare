@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PSquare/static/css/main.2485cf6b.chunk.css",
-    "main.js": "/PSquare/static/js/main.0d0f3056.chunk.js",
-    "main.js.map": "/PSquare/static/js/main.0d0f3056.chunk.js.map",
+    "main.js": "/PSquare/static/js/main.3148134a.chunk.js",
+    "main.js.map": "/PSquare/static/js/main.3148134a.chunk.js.map",
     "runtime-main.js": "/PSquare/static/js/runtime-main.adebbfde.js",
     "runtime-main.js.map": "/PSquare/static/js/runtime-main.adebbfde.js.map",
     "static/css/2.236950b9.chunk.css": "/PSquare/static/css/2.236950b9.chunk.css",
     "static/js/2.63e3189b.chunk.js": "/PSquare/static/js/2.63e3189b.chunk.js",
     "static/js/2.63e3189b.chunk.js.map": "/PSquare/static/js/2.63e3189b.chunk.js.map",
     "index.html": "/PSquare/index.html",
-    "precache-manifest.23b87876ffe2c0d5824ab8b2594b099b.js": "/PSquare/precache-manifest.23b87876ffe2c0d5824ab8b2594b099b.js",
+    "precache-manifest.75cf0d3b737fa6e77d6d4ac2b3fe1a08.js": "/PSquare/precache-manifest.75cf0d3b737fa6e77d6d4ac2b3fe1a08.js",
     "service-worker.js": "/PSquare/service-worker.js",
     "static/css/2.236950b9.chunk.css.map": "/PSquare/static/css/2.236950b9.chunk.css.map",
     "static/css/main.2485cf6b.chunk.css.map": "/PSquare/static/css/main.2485cf6b.chunk.css.map",
@@ -51,6 +51,6 @@
     "static/css/2.236950b9.chunk.css",
     "static/js/2.63e3189b.chunk.js",
     "static/css/main.2485cf6b.chunk.css",
-    "static/js/main.0d0f3056.chunk.js"
+    "static/js/main.3148134a.chunk.js"
   ]
 }
